@@ -3,4 +3,5 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-image: linear-gradient(to right bottom, #00bc94, #00a39f, #00889f, #006c93, #00517c);
+  background-repeat: no-repeat;
 }
